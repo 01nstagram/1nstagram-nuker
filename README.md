@@ -1,4 +1,4 @@
-# Demon Nuker 👺
+# Pakistan Nuker
 
 A stress testing tool for servers and applications. Use responsibly and only in environments where you have explicit permission to conduct tests.
 
@@ -33,8 +33,8 @@ This tool allows you to send a large number of requests to a server or applicati
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/01nstagram/Demon-nuker.git
-   cd Demon-nuker
+   git clone https://github.com/01nstagram/1nstagram-nuker.git
+   cd 1nstagram-nuker
    ```
 
 2. Install the dependencies:
@@ -54,7 +54,7 @@ bash start.sh
 ## 📸 **Screenshots**
 
 ### Tool Execution
-![Screenshot](ft/Screenshot_2025-02-24-22-23-31-406_com.termux.png)
+![Screenshot](icon.ico)
 
 ---
 
